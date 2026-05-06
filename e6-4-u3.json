@@ -1,0 +1,462 @@
+{
+    "units": {
+        "e6-4-u4": {
+            "title": "Unit 4",
+            "vocab": [
+                {
+                    "id": "e6-4-u4-v001",
+                    "word": "spring",
+                    "part_of_speech": "n.",
+                    "chinese": "春天",
+                    "sentence": "My favorite season is spring.",
+                    "sentence_chinese": "我最喜歡的季節是春天。"
+                },
+                {
+                    "id": "e6-4-u4-v002",
+                    "word": "summer",
+                    "part_of_speech": "n.",
+                    "chinese": "夏天",
+                    "sentence": "My favorite season is summer.",
+                    "sentence_chinese": "我最喜歡的季節是夏天。"
+                },
+                {
+                    "id": "e6-4-u4-v003",
+                    "word": "fall",
+                    "part_of_speech": "n.",
+                    "chinese": "秋天",
+                    "sentence": "My favorite season is fall.",
+                    "sentence_chinese": "我最喜歡的季節是秋天。"
+                },
+                {
+                    "id": "e6-4-u4-v004",
+                    "word": "winter",
+                    "part_of_speech": "n.",
+                    "chinese": "冬天",
+                    "sentence": "My favorite season is winter.",
+                    "sentence_chinese": "我最喜歡的季節是冬天。"
+                },
+                {
+                    "id": "e6-4-u4-v005",
+                    "word": "dry",
+                    "part_of_speech": "adj.",
+                    "chinese": "乾燥的",
+                    "sentence": "It's cool and dry in fall.",
+                    "sentence_chinese": "秋天很涼爽且乾燥。"
+                },
+                {
+                    "id": "e6-4-u4-v006",
+                    "word": "wet",
+                    "part_of_speech": "adj.",
+                    "chinese": "潮濕的",
+                    "sentence": "It's hot and wet in summer.",
+                    "sentence_chinese": "夏天既炎熱又潮濕。"
+                },
+                {
+                    "id": "e6-4-u4-v007",
+                    "word": "foggy",
+                    "part_of_speech": "adj.",
+                    "chinese": "有霧的",
+                    "sentence": "The weather is foggy today.",
+                    "sentence_chinese": "今天天氣有霧。"
+                },
+                {
+                    "id": "e6-4-u4-v008",
+                    "word": "snowy",
+                    "part_of_speech": "adj.",
+                    "chinese": "下雪的",
+                    "sentence": "It's cold and snowy in winter.",
+                    "sentence_chinese": "冬天很冷且會下雪。"
+                },
+                {
+                    "id": "e6-4-u4-v009",
+                    "word": "favorite",
+                    "part_of_speech": "adj.",
+                    "chinese": "特別喜愛的",
+                    "sentence": "What's your favorite season?",
+                    "sentence_chinese": "你最喜歡的季節是什麼？"
+                },
+                {
+                    "id": "e6-4-u4-v010",
+                    "word": "season",
+                    "part_of_speech": "n.",
+                    "chinese": "季節",
+                    "sentence": "What's your favorite season?",
+                    "sentence_chinese": "你最喜歡的季節是什麼？"
+                }
+            ],
+            "phrases": [
+                {
+                    "id": "e6-4-u4-p001",
+                    "phrase": "favorite season",
+                    "chinese": "最喜歡的季節",
+                    "sentence": "What's your favorite season?",
+                    "sentence_chinese": "你最喜歡的季節是什麼？"
+                }
+            ],
+            "grammar": {
+                "tips": [
+                    {
+                        "label": "詢問最喜愛的季節",
+                        "text": "What's + 所有格 / 名詞所有格 (如 your, Teddy's) + favorite season?"
+                    },
+                    {
+                        "label": "表達最喜愛的季節",
+                        "text": "所有格 (如 My, His, Her) + favorite season is + 季節 (spring, summer, fall, winter)."
+                    },
+                    {
+                        "label": "時間與季節的介系詞",
+                        "text": "at + 時間點 / on + 特定日子 / in + 季節或長時間."
+                    }
+                ],
+                "notes": [
+                    {
+                        "title": "主題一：詢問與回答最喜愛的季節",
+                        "rule": "What's = What is。詢問時需正確搭配所有格 (your, his, her) 或名詞所有格 (Teddy's, Mia's)。",
+                        "description": "句首疑問詞使用 What，後接動詞 is，再加上表示所屬的代名詞與 favorite season。回答時，只要將問句中的所有格改為對應的第一人稱或第三人稱所有格即可。",
+                        "examples": [
+                            "What's Mia's favorite season? (Mia 最喜歡的季節是什麼？)",
+                            "Her favorite season is summer. (她最喜歡的季節是夏天。)"
+                        ]
+                    },
+                    {
+                        "title": "主題二：時間與季節介系詞 in, on, at 的區別",
+                        "rule": "in 放「長時間 / 季節 / 月份」；on 放「特定的一天 / 星期」；at 放「明確的時鐘時間點」。",
+                        "description": "在描述天氣狀況，或者說明某件事發生在什麼時間時，必須根據時間長短選擇正確的介系詞。",
+                        "examples": [
+                            "It's hot and wet in summer. (夏天既炎熱又潮濕。) — in 搭配季節",
+                            "I play baseball on Sunday. (我在星期日打棒球。) — on 搭配星期",
+                            "He goes to bed at 10:00. (他十點上床睡覺。) — at 搭配時間點"
+                        ]
+                    }
+                ],
+                "quiz": [
+                    {
+                        "id": "e6-4-u4-q001",
+                        "question": "A: What's your _____ season? B: My favorite season is spring.",
+                        "options": [
+                            "favorite",
+                            "summer",
+                            "wet",
+                            "dry"
+                        ],
+                        "answer": "favorite",
+                        "answer_index": 0,
+                        "hint": "句意為「你最喜愛的季節是什麼？」，「favorite season」為固定用法。"
+                    },
+                    {
+                        "id": "e6-4-u4-q002",
+                        "question": "It is hot and wet _____ summer.",
+                        "options": [
+                            "at",
+                            "in",
+                            "on",
+                            "for"
+                        ],
+                        "answer": "in",
+                        "answer_index": 1,
+                        "hint": "summer (夏天) 為季節，在季節前面必須搭配介系詞 in。"
+                    },
+                    {
+                        "id": "e6-4-u4-q003",
+                        "question": "A: What's _____ favorite season? B: His favorite season is winter.",
+                        "options": [
+                            "he",
+                            "her",
+                            "his",
+                            "your"
+                        ],
+                        "answer": "his",
+                        "answer_index": 2,
+                        "hint": "答句主詞為 His (他的)，因此問句必須詢問「他」最喜歡的季節，使用所有格 his。"
+                    },
+                    {
+                        "id": "e6-4-u4-q004",
+                        "question": "A: What's your favorite season? B: My favorite season _____ fall.",
+                        "options": [
+                            "am",
+                            "are",
+                            "is",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 2,
+                        "hint": "My favorite season 視為單數名詞，搭配的 Be 動詞為 is。"
+                    },
+                    {
+                        "id": "e6-4-u4-q005",
+                        "question": "The weather is foggy _____ Sunday.",
+                        "options": [
+                            "at",
+                            "of",
+                            "in",
+                            "on"
+                        ],
+                        "answer": "on",
+                        "answer_index": 3,
+                        "hint": "Sunday (星期日) 為特定的一天，在星期幾前面搭配的介系詞為 on。"
+                    },
+                    {
+                        "id": "e6-4-u4-q006",
+                        "question": "I wake up _____ 7:00 every day.",
+                        "options": [
+                            "on",
+                            "at",
+                            "in",
+                            "to"
+                        ],
+                        "answer": "at",
+                        "answer_index": 1,
+                        "hint": "7:00 為明確的時鐘時間點，時間點前面搭配的介系詞為 at。"
+                    },
+                    {
+                        "id": "e6-4-u4-q007",
+                        "question": "A: _____ your favorite season? B: My favorite season is winter.",
+                        "options": [
+                            "Where's",
+                            "How's",
+                            "What's",
+                            "Who's"
+                        ],
+                        "answer": "What's",
+                        "answer_index": 2,
+                        "hint": "詢問事物使用 What，What's = What is，符合句型「What's + 所有格 + favorite season?」。"
+                    },
+                    {
+                        "id": "e6-4-u4-q008",
+                        "question": "It is cool and _____ in fall.",
+                        "options": [
+                            "dry",
+                            "snowy",
+                            "wet",
+                            "hot"
+                        ],
+                        "answer": "dry",
+                        "answer_index": 0,
+                        "hint": "根據課本單字與情境，秋天 (fall) 的天氣特徵為涼爽 (cool) 且乾燥 (dry)。"
+                    },
+                    {
+                        "id": "e6-4-u4-q009",
+                        "question": "A: What's _____ favorite season? B: Her favorite season is summer.",
+                        "options": [
+                            "she",
+                            "her",
+                            "hers",
+                            "Mia"
+                        ],
+                        "answer": "her",
+                        "answer_index": 1,
+                        "hint": "答句為 Her (她的)，問句也應使用女性所有格 her。"
+                    },
+                    {
+                        "id": "e6-4-u4-q010",
+                        "question": "A: What's Teddy's favorite season? B: _____ favorite season is spring.",
+                        "options": [
+                            "Her",
+                            "My",
+                            "His",
+                            "Your"
+                        ],
+                        "answer": "His",
+                        "answer_index": 2,
+                        "hint": "Teddy 為男性名字，代名詞的所有格應使用 His (他的)。"
+                    },
+                    {
+                        "id": "e6-4-u4-q011",
+                        "question": "It is cold and _____ in winter.",
+                        "options": [
+                            "hot",
+                            "snowy",
+                            "dry",
+                            "warm"
+                        ],
+                        "answer": "snowy",
+                        "answer_index": 1,
+                        "hint": "根據課本單字，冬天 (winter) 的天氣特徵為寒冷 (cold) 且會下雪 (snowy)。"
+                    },
+                    {
+                        "id": "e6-4-u4-q012",
+                        "question": "A: _____ is Mia's favorite season? B: It is summer.",
+                        "options": [
+                            "What",
+                            "When",
+                            "How",
+                            "Where"
+                        ],
+                        "answer": "What",
+                        "answer_index": 0,
+                        "hint": "詢問最喜愛的季節是什麼，疑問詞必須使用 What。"
+                    },
+                    {
+                        "id": "e6-4-u4-q013",
+                        "question": "She plays basketball _____ Monday.",
+                        "options": [
+                            "in",
+                            "to",
+                            "at",
+                            "on"
+                        ],
+                        "answer": "on",
+                        "answer_index": 3,
+                        "hint": "Monday (星期一) 為特定的一天，介系詞使用 on。"
+                    },
+                    {
+                        "id": "e6-4-u4-q014",
+                        "question": "My dad goes to work _____ 8:00.",
+                        "options": [
+                            "at",
+                            "in",
+                            "on",
+                            "of"
+                        ],
+                        "answer": "at",
+                        "answer_index": 0,
+                        "hint": "8:00 為明確的時間點，搭配介系詞 at。"
+                    },
+                    {
+                        "id": "e6-4-u4-q015",
+                        "question": "A: What's your sister's favorite season? B: _____ favorite season is fall.",
+                        "options": [
+                            "His",
+                            "Her",
+                            "She",
+                            "My"
+                        ],
+                        "answer": "Her",
+                        "answer_index": 1,
+                        "hint": "sister (姐姐/妹妹) 為女性，所有格應使用 Her (她的)。"
+                    },
+                    {
+                        "id": "e6-4-u4-q016",
+                        "question": "We have an English class _____ Tuesday.",
+                        "options": [
+                            "in",
+                            "on",
+                            "at",
+                            "with"
+                        ],
+                        "answer": "on",
+                        "answer_index": 1,
+                        "hint": "Tuesday (星期二) 為特定的一天，搭配介系詞 on。"
+                    },
+                    {
+                        "id": "e6-4-u4-q017",
+                        "question": "A: What's your brother's favorite season? B: _____ favorite season is summer.",
+                        "options": [
+                            "His",
+                            "He",
+                            "Her",
+                            "Your"
+                        ],
+                        "answer": "His",
+                        "answer_index": 0,
+                        "hint": "brother (哥哥/弟弟) 為男性，所有格應使用 His (他的)。"
+                    },
+                    {
+                        "id": "e6-4-u4-q018",
+                        "question": "It is very warm _____ spring.",
+                        "options": [
+                            "at",
+                            "on",
+                            "in",
+                            "for"
+                        ],
+                        "answer": "in",
+                        "answer_index": 2,
+                        "hint": "spring (春天) 為季節，搭配介系詞 in。"
+                    },
+                    {
+                        "id": "e6-4-u4-q019",
+                        "question": "A: What is _____ favorite season? B: My favorite season is fall.",
+                        "options": [
+                            "I",
+                            "your",
+                            "you",
+                            "yours"
+                        ],
+                        "answer": "your",
+                        "answer_index": 1,
+                        "hint": "答句為「我」最喜歡的季節，問句應詢問「你」最喜歡的季節，需用所有格 your。"
+                    },
+                    {
+                        "id": "e6-4-u4-q020",
+                        "question": "A: What's _____ favorite season? B: His favorite season is winter.",
+                        "options": [
+                            "Teddy",
+                            "Teddy's",
+                            "he",
+                            "him"
+                        ],
+                        "answer": "Teddy's",
+                        "answer_index": 1,
+                        "hint": "問句中 favorite season 前需接所有格。Teddy 為名詞，必須加上 's 形成名詞所有格 Teddy's。"
+                    },
+                    {
+                        "id": "e6-4-u4-q021",
+                        "question": "I eat lunch _____ 12:00.",
+                        "options": [
+                            "in",
+                            "on",
+                            "at",
+                            "from"
+                        ],
+                        "answer": "at",
+                        "answer_index": 2,
+                        "hint": "12:00 是明確的時間點，介系詞使用 at。"
+                    },
+                    {
+                        "id": "e6-4-u4-q022",
+                        "question": "The weather is _____ today. I can't see the road.",
+                        "options": [
+                            "sunny",
+                            "wet",
+                            "dry",
+                            "foggy"
+                        ],
+                        "answer": "foggy",
+                        "answer_index": 3,
+                        "hint": "根據後句「I can't see the road. (我看不清馬路)」，推斷天氣是有霧的 (foggy)。"
+                    },
+                    {
+                        "id": "e6-4-u4-q023",
+                        "question": "A: What _____ her favorite season? B: Her favorite season is fall.",
+                        "options": [
+                            "am",
+                            "are",
+                            "is",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 2,
+                        "hint": "favorite season 為單數名詞，搭配的 Be 動詞為 is。"
+                    },
+                    {
+                        "id": "e6-4-u4-q024",
+                        "question": "A: What's Mia's favorite _____? B: Her favorite season is spring.",
+                        "options": [
+                            "day",
+                            "color",
+                            "season",
+                            "weather"
+                        ],
+                        "answer": "season",
+                        "answer_index": 2,
+                        "hint": "根據答句「Her favorite season...」，問句必然是詢問季節 (season)。"
+                    },
+                    {
+                        "id": "e6-4-u4-q025",
+                        "question": "It is snowy _____ winter.",
+                        "options": [
+                            "on",
+                            "at",
+                            "in",
+                            "to"
+                        ],
+                        "answer": "in",
+                        "answer_index": 2,
+                        "hint": "winter 為季節，搭配介系詞 in。"
+                    }
+                ]
+            }
+        }
+    }
+}

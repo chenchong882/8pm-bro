@@ -1,0 +1,1023 @@
+{
+    "units": {
+        "e6-4-u3": {
+            "title": "Unit 3",
+            "vocab": [
+                {
+                    "id": "e6-4-u3-v001",
+                    "word": "coat",
+                    "part_of_speech": "n.",
+                    "chinese": "外套；大衣",
+                    "sentence": "The coat is fifty dollars.",
+                    "sentence_chinese": "這件外套五十元。"
+                },
+                {
+                    "id": "e6-4-u3-v002",
+                    "word": "dress",
+                    "part_of_speech": "n.",
+                    "chinese": "洋裝",
+                    "sentence": "Look at that beautiful dress.",
+                    "sentence_chinese": "看看那件美麗的洋裝。"
+                },
+                {
+                    "id": "e6-4-u3-v003",
+                    "word": "hat",
+                    "part_of_speech": "n.",
+                    "chinese": "（有邊的）帽子",
+                    "sentence": "How much is the hat?",
+                    "sentence_chinese": "這頂帽子多少錢？"
+                },
+                {
+                    "id": "e6-4-u3-v004",
+                    "word": "jacket",
+                    "part_of_speech": "n.",
+                    "chinese": "夾克",
+                    "sentence": "I need a new jacket.",
+                    "sentence_chinese": "我需要一件新夾克。"
+                },
+                {
+                    "id": "e6-4-u3-v005",
+                    "word": "skirt",
+                    "part_of_speech": "n.",
+                    "chinese": "裙子",
+                    "sentence": "The red skirt is pretty.",
+                    "sentence_chinese": "這件紅色的裙子很漂亮。"
+                },
+                {
+                    "id": "e6-4-u3-v006",
+                    "word": "T-shirt",
+                    "part_of_speech": "n.",
+                    "chinese": "T恤",
+                    "sentence": "How much is the T-shirt?",
+                    "sentence_chinese": "這件T恤多少錢？"
+                },
+                {
+                    "id": "e6-4-u3-v007",
+                    "word": "jeans",
+                    "part_of_speech": "n.",
+                    "chinese": "牛仔褲",
+                    "sentence": "How much are the jeans?",
+                    "sentence_chinese": "這件牛仔褲多少錢？"
+                },
+                {
+                    "id": "e6-4-u3-v008",
+                    "word": "pants",
+                    "part_of_speech": "n.",
+                    "chinese": "褲子；長褲",
+                    "sentence": "How much are the pants?",
+                    "sentence_chinese": "這件褲子多少錢？"
+                },
+                {
+                    "id": "e6-4-u3-v009",
+                    "word": "shorts",
+                    "part_of_speech": "n.",
+                    "chinese": "短褲",
+                    "sentence": "He is wearing blue shorts.",
+                    "sentence_chinese": "他穿著藍色的短褲。"
+                },
+                {
+                    "id": "e6-4-u3-v010",
+                    "word": "dollar",
+                    "part_of_speech": "n.",
+                    "chinese": "一美元",
+                    "sentence": "It's ten dollars.",
+                    "sentence_chinese": "它是十元。"
+                }
+            ],
+            "phrases": [
+                {
+                    "id": "e6-4-u3-p001",
+                    "phrase": "how much",
+                    "chinese": "多少（錢）",
+                    "sentence": "How much is the T-shirt?",
+                    "sentence_chinese": "這件T恤多少錢？"
+                }
+            ],
+            "grammar": {
+                "tips": [
+                    {
+                        "label": "Tip 1",
+                        "text": "詢問「單數」物品的價錢時，使用 How much is the + 單數名詞?"
+                    },
+                    {
+                        "label": "Tip 2",
+                        "text": "詢問「複數」或「成雙成對」物品（如 pants, jeans, shorts）的價錢時，使用 How much are the + 複數名詞?"
+                    },
+                    {
+                        "label": "Tip 3",
+                        "text": "回答單數物品價錢，句首使用 It's... (It is...)"
+                    },
+                    {
+                        "label": "Tip 4",
+                        "text": "回答複數物品價錢，句首使用 They're... (They are...)"
+                    }
+                ],
+                "notes": [
+                    {
+                        "title": "注意 Be 動詞的單複數搭配",
+                        "rule": "當主詞是單數名詞（如 hat, dress, T-shirt）時，Be 動詞配 is；當主詞是複數名詞或成雙成對的衣物（如 pants, shorts, jeans）時，Be 動詞配 are。",
+                        "description": "注意詢問價錢時，要根據物品的單複數性質來決定動詞。",
+                        "examples": [
+                            "How much is the hat? (這頂帽子多少錢？)",
+                            "How much are the pants? (這件長褲多少錢？)"
+                        ]
+                    },
+                    {
+                        "title": "代名詞的正確替換",
+                        "rule": "回答價錢時，為了避免重複提到物品名稱，單數物品用 It 代替，複數物品用 They 代替，後面加上價錢。",
+                        "description": "答句中代名詞的選擇與原問句中的物品數量息息相關。",
+                        "examples": [
+                            "How much is the jacket? It is nine dollars. (這件夾克多少錢？它九元。)",
+                            "How much are the jeans? They are one hundred dollars. (這件牛仔褲多少錢？它們一百元。)"
+                        ]
+                    },
+                    {
+                        "title": "How much 與 How many 的差異",
+                        "rule": "How much 用來詢問「價錢（多少錢）」或是「不可數名詞的數量」；How many 則專門用來詢問「可數名詞的數量（有多少個）」。",
+                        "description": "本課的重點在於使用 How much 詢問價錢，不要與詢問數量的 How many 搞混。",
+                        "examples": [
+                            "How much is the coat? (這件外套多少錢？)",
+                            "How many coats are there? (那裡有多少件外套？)"
+                        ]
+                    }
+                ],
+                "quiz": [
+                    {
+                        "id": "e6-4-u3-q001",
+                        "question": "_____ much is the hat?",
+                        "options": [
+                            "What",
+                            "Who",
+                            "How",
+                            "Where"
+                        ],
+                        "answer": "How",
+                        "answer_index": 2,
+                        "hint": "詢問價錢的固定用法為 How much。"
+                    },
+                    {
+                        "id": "e6-4-u3-q002",
+                        "question": "How _____ is the jacket?",
+                        "options": [
+                            "many",
+                            "much",
+                            "old",
+                            "tall"
+                        ],
+                        "answer": "much",
+                        "answer_index": 1,
+                        "hint": "詢問價錢使用 How much。"
+                    },
+                    {
+                        "id": "e6-4-u3-q003",
+                        "question": "How much _____ the coat?",
+                        "options": [
+                            "am",
+                            "is",
+                            "are",
+                            "do"
+                        ],
+                        "answer": "is",
+                        "answer_index": 1,
+                        "hint": "the coat (這件外套) 為單數名詞，be 動詞用 is。"
+                    },
+                    {
+                        "id": "e6-4-u3-q004",
+                        "question": "How much _____ the jeans?",
+                        "options": [
+                            "am",
+                            "is",
+                            "are",
+                            "does"
+                        ],
+                        "answer": "are",
+                        "answer_index": 2,
+                        "hint": "the jeans (牛仔褲) 視為複數，be 動詞用 are。"
+                    },
+                    {
+                        "id": "e6-4-u3-q005",
+                        "question": "How much is the _____?",
+                        "options": [
+                            "pants",
+                            "shorts",
+                            "jeans",
+                            "skirt"
+                        ],
+                        "answer": "skirt",
+                        "answer_index": 3,
+                        "hint": "be 動詞為 is，需搭配單數名詞 skirt。"
+                    },
+                    {
+                        "id": "e6-4-u3-q006",
+                        "question": "How much are the _____?",
+                        "options": [
+                            "T-shirt",
+                            "hat",
+                            "pants",
+                            "jacket"
+                        ],
+                        "answer": "pants",
+                        "answer_index": 2,
+                        "hint": "be 動詞為 are，需搭配複數名詞 pants。"
+                    },
+                    {
+                        "id": "e6-4-u3-q007",
+                        "question": "How much is the dress? _____ ten dollars.",
+                        "options": [
+                            "It's",
+                            "They're",
+                            "This is",
+                            "That is"
+                        ],
+                        "answer": "It's",
+                        "answer_index": 0,
+                        "hint": "dress 為單數，代名詞用 It，故選 It's (It is)。"
+                    },
+                    {
+                        "id": "e6-4-u3-q008",
+                        "question": "How much are the shorts? _____ twenty dollars.",
+                        "options": [
+                            "It's",
+                            "They're",
+                            "We are",
+                            "You are"
+                        ],
+                        "answer": "They're",
+                        "answer_index": 1,
+                        "hint": "shorts 為複數，代名詞用 They，故選 They're (They are)。"
+                    },
+                    {
+                        "id": "e6-4-u3-q009",
+                        "question": "It is fifty _____.",
+                        "options": [
+                            "dollar",
+                            "dollars",
+                            "a dollar",
+                            "dollor"
+                        ],
+                        "answer": "dollars",
+                        "answer_index": 1,
+                        "hint": "五十元為複數，dollar 字尾需加 s。"
+                    },
+                    {
+                        "id": "e6-4-u3-q010",
+                        "question": "The hat is one _____.",
+                        "options": [
+                            "dollar",
+                            "dollars",
+                            "a dollars",
+                            "money"
+                        ],
+                        "answer": "dollar",
+                        "answer_index": 0,
+                        "hint": "一元為單數，dollar 不加 s。"
+                    },
+                    {
+                        "id": "e6-4-u3-q011",
+                        "question": "_____ is the T-shirt? It's fifteen dollars.",
+                        "options": [
+                            "What time",
+                            "How many",
+                            "How much",
+                            "How old"
+                        ],
+                        "answer": "How much",
+                        "answer_index": 2,
+                        "hint": "答句為價錢，故問句使用 How much 詢問價錢。"
+                    },
+                    {
+                        "id": "e6-4-u3-q012",
+                        "question": "A: How much _____ the jacket? B: _____ eighty dollars.",
+                        "options": [
+                            "is ; They're",
+                            "are ; They're",
+                            "is ; It's",
+                            "are ; It's"
+                        ],
+                        "answer": "is ; It's",
+                        "answer_index": 2,
+                        "hint": "jacket 為單數，be 動詞用 is，回答用 It's。"
+                    },
+                    {
+                        "id": "e6-4-u3-q013",
+                        "question": "A: How much _____ the pants? B: _____ ninety dollars.",
+                        "options": [
+                            "is ; They're",
+                            "are ; They're",
+                            "is ; It's",
+                            "are ; It's"
+                        ],
+                        "answer": "are ; They're",
+                        "answer_index": 1,
+                        "hint": "pants 為複數，be 動詞用 are，回答用 They're。"
+                    },
+                    {
+                        "id": "e6-4-u3-q014",
+                        "question": "It is _____ T-shirt.",
+                        "options": [
+                            "a",
+                            "an",
+                            "two",
+                            "some"
+                        ],
+                        "answer": "a",
+                        "answer_index": 0,
+                        "hint": "T-shirt 為單數，且子音開頭，冠詞用 a。"
+                    },
+                    {
+                        "id": "e6-4-u3-q015",
+                        "question": "How much are the _____?",
+                        "options": [
+                            "dress",
+                            "coat",
+                            "hat",
+                            "jeans"
+                        ],
+                        "answer": "jeans",
+                        "answer_index": 3,
+                        "hint": "are 搭配複數名詞，只有 jeans 符合。"
+                    },
+                    {
+                        "id": "e6-4-u3-q016",
+                        "question": "How much _____ the red dress?",
+                        "options": [
+                            "is",
+                            "are",
+                            "do",
+                            "does"
+                        ],
+                        "answer": "is",
+                        "answer_index": 0,
+                        "hint": "the red dress (紅洋裝) 為單數名詞，用 is。"
+                    },
+                    {
+                        "id": "e6-4-u3-q017",
+                        "question": "How much are the blue _____?",
+                        "options": [
+                            "T-shirt",
+                            "jacket",
+                            "shorts",
+                            "hat"
+                        ],
+                        "answer": "shorts",
+                        "answer_index": 2,
+                        "hint": "are 搭配複數名詞，只有 shorts 符合。"
+                    },
+                    {
+                        "id": "e6-4-u3-q018",
+                        "question": "A: _____ are the jeans? B: They're 100 dollars.",
+                        "options": [
+                            "How old",
+                            "How much",
+                            "How many",
+                            "What"
+                        ],
+                        "answer": "How much",
+                        "answer_index": 1,
+                        "hint": "答句為價錢，問句用 How much。"
+                    },
+                    {
+                        "id": "e6-4-u3-q019",
+                        "question": "They are forty _____.",
+                        "options": [
+                            "dollar",
+                            "dollars",
+                            "money",
+                            "NT"
+                        ],
+                        "answer": "dollars",
+                        "answer_index": 1,
+                        "hint": "數字大於一，dollar 要加 s。"
+                    },
+                    {
+                        "id": "e6-4-u3-q020",
+                        "question": "_____ the jacket forty dollars?",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Do",
+                            "Does"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 0,
+                        "hint": "主詞 jacket 為單數，be 動詞放句首形成疑問句，用 Is。"
+                    },
+                    {
+                        "id": "e6-4-u3-q021",
+                        "question": "_____ the pants thirty dollars?",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Do",
+                            "Does"
+                        ],
+                        "answer": "Are",
+                        "answer_index": 1,
+                        "hint": "主詞 pants 為複數，be 動詞放句首形成疑問句，用 Are。"
+                    },
+                    {
+                        "id": "e6-4-u3-q022",
+                        "question": "The coat _____ fifty dollars.",
+                        "options": [
+                            "am",
+                            "is",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 1,
+                        "hint": "主詞 The coat 為單數，be 動詞用 is。"
+                    },
+                    {
+                        "id": "e6-4-u3-q023",
+                        "question": "The shorts _____ ten dollars.",
+                        "options": [
+                            "am",
+                            "is",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "are",
+                        "answer_index": 2,
+                        "hint": "主詞 The shorts 為複數，be 動詞用 are。"
+                    },
+                    {
+                        "id": "e6-4-u3-q024",
+                        "question": "How much is _____?",
+                        "options": [
+                            "the hats",
+                            "the jeans",
+                            "the dress",
+                            "the pants"
+                        ],
+                        "answer": "the dress",
+                        "answer_index": 2,
+                        "hint": "is 搭配單數名詞，只有 the dress 符合。"
+                    },
+                    {
+                        "id": "e6-4-u3-q025",
+                        "question": "How much are _____?",
+                        "options": [
+                            "the skirt",
+                            "the T-shirt",
+                            "the coat",
+                            "the jeans"
+                        ],
+                        "answer": "the jeans",
+                        "answer_index": 3,
+                        "hint": "are 搭配複數名詞，只有 the jeans 符合。"
+                    },
+                    {
+                        "id": "e6-4-u3-q026",
+                        "question": "A: _____ is the skirt? B: It is fifty dollars.",
+                        "options": [
+                            "Who",
+                            "Where",
+                            "How much",
+                            "How"
+                        ],
+                        "answer": "How much",
+                        "answer_index": 2,
+                        "hint": "詢問多少錢用 How much。"
+                    },
+                    {
+                        "id": "e6-4-u3-q027",
+                        "question": "A: How much is the hat? B: _____ ten dollars.",
+                        "options": [
+                            "They are",
+                            "It is",
+                            "This is",
+                            "That is"
+                        ],
+                        "answer": "It is",
+                        "answer_index": 1,
+                        "hint": "hat 為單數，以 It 代替。"
+                    },
+                    {
+                        "id": "e6-4-u3-q028",
+                        "question": "A: How much are the jeans? B: _____ one hundred dollars.",
+                        "options": [
+                            "They are",
+                            "It is",
+                            "These are",
+                            "Those are"
+                        ],
+                        "answer": "They are",
+                        "answer_index": 0,
+                        "hint": "jeans 為複數，以 They 代替。"
+                    },
+                    {
+                        "id": "e6-4-u3-q029",
+                        "question": "_____ is thirty dollars.",
+                        "options": [
+                            "The hats",
+                            "The pants",
+                            "The T-shirt",
+                            "The shorts"
+                        ],
+                        "answer": "The T-shirt",
+                        "answer_index": 2,
+                        "hint": "is 搭配單數主詞。"
+                    },
+                    {
+                        "id": "e6-4-u3-q030",
+                        "question": "_____ are forty dollars.",
+                        "options": [
+                            "The dress",
+                            "The skirt",
+                            "The coat",
+                            "The pants"
+                        ],
+                        "answer": "The pants",
+                        "answer_index": 3,
+                        "hint": "are 搭配複數主詞。"
+                    },
+                    {
+                        "id": "e6-4-u3-q031",
+                        "question": "I like the red _____. How much is it?",
+                        "options": [
+                            "shorts",
+                            "pants",
+                            "jeans",
+                            "hat"
+                        ],
+                        "answer": "hat",
+                        "answer_index": 3,
+                        "hint": "由後句的 it (單數代名詞) 可知，前方名詞為單數，選 hat。"
+                    },
+                    {
+                        "id": "e6-4-u3-q032",
+                        "question": "Look at the blue _____. How much are they?",
+                        "options": [
+                            "dress",
+                            "coat",
+                            "skirt",
+                            "jeans"
+                        ],
+                        "answer": "jeans",
+                        "answer_index": 3,
+                        "hint": "由後句的 they (複數代名詞) 可知，前方名詞為複數，選 jeans。"
+                    },
+                    {
+                        "id": "e6-4-u3-q033",
+                        "question": "How much is the _____?",
+                        "options": [
+                            "T-shirts",
+                            "jackets",
+                            "hat",
+                            "dresses"
+                        ],
+                        "answer": "hat",
+                        "answer_index": 2,
+                        "hint": "is 搭配單數名詞。"
+                    },
+                    {
+                        "id": "e6-4-u3-q034",
+                        "question": "How much are the _____?",
+                        "options": [
+                            "coat",
+                            "dress",
+                            "pants",
+                            "skirt"
+                        ],
+                        "answer": "pants",
+                        "answer_index": 2,
+                        "hint": "are 搭配複數名詞。"
+                    },
+                    {
+                        "id": "e6-4-u3-q035",
+                        "question": "The jacket is twenty _____.",
+                        "options": [
+                            "dollars",
+                            "dollar",
+                            "a dollar",
+                            "dollars'"
+                        ],
+                        "answer": "dollars",
+                        "answer_index": 0,
+                        "hint": "二十元為複數，用 dollars。"
+                    },
+                    {
+                        "id": "e6-4-u3-q036",
+                        "question": "_____ is a blue T-shirt.",
+                        "options": [
+                            "They",
+                            "It",
+                            "These",
+                            "Those"
+                        ],
+                        "answer": "It",
+                        "answer_index": 1,
+                        "hint": "單數物品的代名詞用 It。"
+                    },
+                    {
+                        "id": "e6-4-u3-q037",
+                        "question": "_____ are black pants.",
+                        "options": [
+                            "It",
+                            "This",
+                            "That",
+                            "They"
+                        ],
+                        "answer": "They",
+                        "answer_index": 3,
+                        "hint": "複數物品的代名詞用 They。"
+                    },
+                    {
+                        "id": "e6-4-u3-q038",
+                        "question": "The skirt _____ sixty dollars.",
+                        "options": [
+                            "are",
+                            "is",
+                            "am",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 1,
+                        "hint": "單數主詞 The skirt 搭配 is。"
+                    },
+                    {
+                        "id": "e6-4-u3-q039",
+                        "question": "The jeans _____ ninety dollars.",
+                        "options": [
+                            "are",
+                            "is",
+                            "am",
+                            "be"
+                        ],
+                        "answer": "are",
+                        "answer_index": 0,
+                        "hint": "複數主詞 The jeans 搭配 are。"
+                    },
+                    {
+                        "id": "e6-4-u3-q040",
+                        "question": "A: How much is the hat? B: _____ is ten dollars.",
+                        "options": [
+                            "The pants",
+                            "The shorts",
+                            "It",
+                            "They"
+                        ],
+                        "answer": "It",
+                        "answer_index": 2,
+                        "hint": "代名詞代替單數的 the hat，用 It。"
+                    },
+                    {
+                        "id": "e6-4-u3-q041",
+                        "question": "A: How much are the shorts? B: _____ are fifty dollars.",
+                        "options": [
+                            "It",
+                            "They",
+                            "He",
+                            "She"
+                        ],
+                        "answer": "They",
+                        "answer_index": 1,
+                        "hint": "代名詞代替複數的 the shorts，用 They。"
+                    },
+                    {
+                        "id": "e6-4-u3-q042",
+                        "question": "How much _____ the green jacket?",
+                        "options": [
+                            "is",
+                            "are",
+                            "do",
+                            "does"
+                        ],
+                        "answer": "is",
+                        "answer_index": 0,
+                        "hint": "the green jacket 為單數，用 is。"
+                    },
+                    {
+                        "id": "e6-4-u3-q043",
+                        "question": "How much _____ the blue pants?",
+                        "options": [
+                            "is",
+                            "are",
+                            "do",
+                            "does"
+                        ],
+                        "answer": "are",
+                        "answer_index": 1,
+                        "hint": "the blue pants 為複數，用 are。"
+                    },
+                    {
+                        "id": "e6-4-u3-q044",
+                        "question": "A: Is the T-shirt ten dollars? B: Yes, _____ is.",
+                        "options": [
+                            "this",
+                            "that",
+                            "it",
+                            "they"
+                        ],
+                        "answer": "it",
+                        "answer_index": 2,
+                        "hint": "簡答句中，單數物品主詞用 it 代替。"
+                    },
+                    {
+                        "id": "e6-4-u3-q045",
+                        "question": "A: Are the jeans forty dollars? B: Yes, _____ are.",
+                        "options": [
+                            "it",
+                            "they",
+                            "these",
+                            "those"
+                        ],
+                        "answer": "they",
+                        "answer_index": 1,
+                        "hint": "簡答句中，複數物品主詞用 they 代替。"
+                    },
+                    {
+                        "id": "e6-4-u3-q046",
+                        "question": "What color _____ the hat?",
+                        "options": [
+                            "am",
+                            "is",
+                            "are",
+                            "do"
+                        ],
+                        "answer": "is",
+                        "answer_index": 1,
+                        "hint": "詢問顏色，主詞 hat 為單數，用 is。"
+                    },
+                    {
+                        "id": "e6-4-u3-q047",
+                        "question": "What color _____ the shorts?",
+                        "options": [
+                            "am",
+                            "is",
+                            "are",
+                            "do"
+                        ],
+                        "answer": "are",
+                        "answer_index": 2,
+                        "hint": "詢問顏色，主詞 shorts 為複數，用 are。"
+                    },
+                    {
+                        "id": "e6-4-u3-q048",
+                        "question": "A: How much is the dress? B: It _____ fifty dollars.",
+                        "options": [
+                            "am",
+                            "is",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 1,
+                        "hint": "主詞 It 搭配 is。"
+                    },
+                    {
+                        "id": "e6-4-u3-q049",
+                        "question": "A: How much are the pants? B: They _____ eighty dollars.",
+                        "options": [
+                            "am",
+                            "is",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "are",
+                        "answer_index": 2,
+                        "hint": "主詞 They 搭配 are。"
+                    },
+                    {
+                        "id": "e6-4-u3-q050",
+                        "question": "The T-shirt is 100 _____.",
+                        "options": [
+                            "dollar",
+                            "a dollar",
+                            "dollars",
+                            "money"
+                        ],
+                        "answer": "dollars",
+                        "answer_index": 2,
+                        "hint": "100為複數，使用 dollars。"
+                    }
+                ]
+            },
+            "scrambles": {
+                "vocab": [
+                    {
+                        "id": "e6-4-u3-sv001",
+                        "vocab_id": "e6-4-u3-v001",
+                        "sentence": "The coat is fifty dollars.",
+                        "sentence_chinese": "這件外套五十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sv002",
+                        "vocab_id": "e6-4-u3-v002",
+                        "sentence": "Look at that beautiful dress.",
+                        "sentence_chinese": "看看那件美麗的洋裝。"
+                    },
+                    {
+                        "id": "e6-4-u3-sv003",
+                        "vocab_id": "e6-4-u3-v003",
+                        "sentence": "How much is the hat?",
+                        "sentence_chinese": "這頂帽子多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sv004",
+                        "vocab_id": "e6-4-u3-v004",
+                        "sentence": "I need a new jacket.",
+                        "sentence_chinese": "我需要一件新夾克。"
+                    },
+                    {
+                        "id": "e6-4-u3-sv005",
+                        "vocab_id": "e6-4-u3-v005",
+                        "sentence": "The red skirt is pretty.",
+                        "sentence_chinese": "這件紅色的裙子很漂亮。"
+                    },
+                    {
+                        "id": "e6-4-u3-sv006",
+                        "vocab_id": "e6-4-u3-v006",
+                        "sentence": "How much is the T-shirt?",
+                        "sentence_chinese": "這件T恤多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sv007",
+                        "vocab_id": "e6-4-u3-v007",
+                        "sentence": "How much are the jeans?",
+                        "sentence_chinese": "這件牛仔褲多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sv008",
+                        "vocab_id": "e6-4-u3-v008",
+                        "sentence": "How much are the pants?",
+                        "sentence_chinese": "這件褲子多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sv009",
+                        "vocab_id": "e6-4-u3-v009",
+                        "sentence": "He is wearing blue shorts.",
+                        "sentence_chinese": "他穿著藍色的短褲。"
+                    },
+                    {
+                        "id": "e6-4-u3-sv010",
+                        "vocab_id": "e6-4-u3-v010",
+                        "sentence": "It's ten dollars.",
+                        "sentence_chinese": "它是十元。"
+                    }
+                ],
+                "phrases": [
+                    {
+                        "id": "e6-4-u3-sp001",
+                        "phrase_id": "e6-4-u3-p001",
+                        "sentence": "How much is the T-shirt?",
+                        "sentence_chinese": "這件T恤多少錢？"
+                    }
+                ],
+                "grammar": [
+                    {
+                        "id": "e6-4-u3-sg001",
+                        "sentence": "How much is the hat?",
+                        "sentence_chinese": "這頂帽子多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg002",
+                        "sentence": "It is nine dollars.",
+                        "sentence_chinese": "它是九元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg003",
+                        "sentence": "How much are the pants?",
+                        "sentence_chinese": "這件長褲多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg004",
+                        "sentence": "They are one hundred dollars.",
+                        "sentence_chinese": "它們是一百元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg005",
+                        "sentence": "How much is the jacket?",
+                        "sentence_chinese": "這件夾克多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg006",
+                        "sentence": "It is fifty dollars.",
+                        "sentence_chinese": "它是五十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg007",
+                        "sentence": "How much are the jeans?",
+                        "sentence_chinese": "這件牛仔褲多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg008",
+                        "sentence": "They are eighty dollars.",
+                        "sentence_chinese": "它們是八十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg009",
+                        "sentence": "How much is the T-shirt?",
+                        "sentence_chinese": "這件T恤多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg010",
+                        "sentence": "It is ten dollars.",
+                        "sentence_chinese": "它是十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg011",
+                        "sentence": "How much are the shorts?",
+                        "sentence_chinese": "這件短褲多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg012",
+                        "sentence": "They are thirty dollars.",
+                        "sentence_chinese": "它們是三十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg013",
+                        "sentence": "How much is the coat?",
+                        "sentence_chinese": "這件外套多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg014",
+                        "sentence": "It is ninety dollars.",
+                        "sentence_chinese": "它是九十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg015",
+                        "sentence": "How much is the dress?",
+                        "sentence_chinese": "這件洋裝多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg016",
+                        "sentence": "It is sixty dollars.",
+                        "sentence_chinese": "它是六十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg017",
+                        "sentence": "How much is the skirt?",
+                        "sentence_chinese": "這件裙子多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg018",
+                        "sentence": "It is forty dollars.",
+                        "sentence_chinese": "它是四十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg019",
+                        "sentence": "How much are the blue jeans?",
+                        "sentence_chinese": "這件藍色牛仔褲多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg020",
+                        "sentence": "They are two hundred dollars.",
+                        "sentence_chinese": "它們是兩百元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg021",
+                        "sentence": "How much is the red hat?",
+                        "sentence_chinese": "這頂紅色帽子多少錢？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg022",
+                        "sentence": "It is twenty dollars.",
+                        "sentence_chinese": "它是二十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg023",
+                        "sentence": "The jacket is seventy dollars.",
+                        "sentence_chinese": "這件夾克是七十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg024",
+                        "sentence": "The pants are fifty dollars.",
+                        "sentence_chinese": "這件長褲是五十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg025",
+                        "sentence": "Is the T-shirt ten dollars?",
+                        "sentence_chinese": "這件T恤是十元嗎？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg026",
+                        "sentence": "Are the shorts forty dollars?",
+                        "sentence_chinese": "這件短褲是四十元嗎？"
+                    },
+                    {
+                        "id": "e6-4-u3-sg027",
+                        "sentence": "The blue coat is ninety dollars.",
+                        "sentence_chinese": "這件藍色外套是九十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg028",
+                        "sentence": "The red skirt is sixty dollars.",
+                        "sentence_chinese": "這件紅色裙子是六十元。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg029",
+                        "sentence": "They are my blue jeans.",
+                        "sentence_chinese": "它們是我的藍色牛仔褲。"
+                    },
+                    {
+                        "id": "e6-4-u3-sg030",
+                        "sentence": "It is a yellow hat.",
+                        "sentence_chinese": "它是一頂黃色的帽子。"
+                    }
+                ]
+            }
+        }
+    }
+}
